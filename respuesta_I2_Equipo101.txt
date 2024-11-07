@@ -1,0 +1,27 @@
+Nombre y Apellido
+- Juan Francisco Fresone
+- Patricio Sveda
+
+Respuestas:
+
+a- ¿Cómo actualizo mi repositorio al estado que esté el repo que hice FORK?
+
+
+b- ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA? N/S
+
+c- ¿Puede GAMMA actualizar su FORK al estado del fork de ALFA? N/S
+
+
+d- ¿Los datos que tenía en mi repositorio, editados por mí, se pierden si quiero actualizar el fork?
+ No se pierden!
+
+
+e- Listado de comandos y pasos necesarios:
+BETA
+1. Creo el repositorio llamado “TP_SO_i2_101” 
+2. Creo readme
+3.Creo archivo fork.txt
+4. Clonar el repositorio: `git clone “TP_SO_i2_101`
+5. Entrar a la carpeta del repositorio: `cd TP_SO_i2_101`
+6. Creo el archivo respuesta_I2_Equipo101.txt` con los nombres y respuestas.
+
