@@ -1,14 +1,18 @@
 Nombre y Apellido
 - Juan Francisco Fresone
 - Patricio Sveda
+- Orlando Diaz
 
 Respuestas:
 
 a- ¿Cómo actualizo mi repositorio al estado que esté el repo que hice FORK?
-
-
+Usando:
+git remote add beta 
+git fetch beta
+git merge beta/main
+git push origin main
 b- ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA? N/S
-
+No
 c- ¿Puede GAMMA actualizar su FORK al estado del fork de ALFA? N/S
 
 
