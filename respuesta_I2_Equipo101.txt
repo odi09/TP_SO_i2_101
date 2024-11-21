@@ -6,6 +6,7 @@ Nombre y Apellido
 Respuestas:
 
 a- ¿Cómo actualizo mi repositorio al estado que esté el repo que hice FORK?
+<<<<<<< HEAD
 Usando:
 git remote add beta 
 git fetch beta
@@ -14,7 +15,16 @@ git push origin main
 b- ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA? N/S
 No
 c- ¿Puede GAMMA actualizar su FORK al estado del fork de ALFA? N/S
+=======
 
+
+b- ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+
+>>>>>>> upstream/main
+
+c- ¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Gamma y Alfa no estan relacionados entre sí, por lo cual Gamma no puede actuaalizar su fork al estado del fork de Alfa.
+Para poder hacerlo Gamma debería hacer una conexion remota con el repositorio de Alfa
 
 d- ¿Los datos que tenía en mi repositorio, editados por mí, se pierden si quiero actualizar el fork?
  No se pierden!
